@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(150, 209, 255);
+}
+
+#welcome{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#l1{
+    position: absolute;
+   left:3px; 
+    bottom: 20px;
+}
+#l2{
+    position: absolute;
+    right: 3px;
+    bottom: 0px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(150, 209, 255);
+}
+#photo{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#link{
+   padding:0 30px ;
+}
+#img{
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}

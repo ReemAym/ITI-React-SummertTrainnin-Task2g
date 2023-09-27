@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(150, 209, 255);
+}
+#enter{
+    position: relative;
+    transform: translateY(-50%);
+    top:  50%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 150px;
+}
+#link{
+float: right;
+height: 15%;
+}
